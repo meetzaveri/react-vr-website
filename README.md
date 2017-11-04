@@ -1,4 +1,4 @@
-# react-vr-website
+# React-VR-website
 A VR website made with (https://facebook.github.io/react-vr/index.html)react-vr.
 
 ## Getting Started
